@@ -1,2 +1,5 @@
 # Data-Base-lab-1
-Data Base labs
+Bondur Yaroslav
+Var. #1
+Group - Student
+Filter : Знайти наймолодшого студента в кожній групі
